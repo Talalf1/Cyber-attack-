@@ -1,6 +1,6 @@
 # Cyber Attack Simulation Lab
 
-> **ALMAAREEFA University - Graduation Project 2024-2025**
+> **ALMAAREEFA University - Graduation Project 2025-2026**
 > Department of Computer Science and Information Systems
 > Supervisor: DR. ISMAIL MOHAMMED KESHTA
 
@@ -138,4 +138,4 @@ This platform is for **educational purposes only**. All attack simulations are c
 
 ---
 
-*Cyber Attack Simulation Lab - ALMAAREEFA University 2025*
+*Cyber Attack Simulation Lab - ALMAAREEFA University 2026*
